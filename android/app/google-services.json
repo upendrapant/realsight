@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "50074894012",
+    "project_id": "realsightmobile",
+    "storage_bucket": "realsightmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50074894012:android:74e4bca7e940f74a6c9ab9",
+        "android_client_info": {
+          "package_name": "com.example.realsightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50074894012-2ccneptov4b0uh6r0bj4v845fvaqc1b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realsightapp",
+            "certificate_hash": "640d050dc4d4a9a08de4535fcb999774c26f7440"
+          }
+        },
+        {
+          "client_id": "50074894012-m62ko2pfpjeul42i87oqsnlcsrq1rv8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1grkaXa18U9DKE3_0z30al72zS6stBUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50074894012-m62ko2pfpjeul42i87oqsnlcsrq1rv8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50074894012-rellav4scbgvdgvjvr8ipan0366jh7fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realsightapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
