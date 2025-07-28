@@ -1,5 +1,3 @@
-# realsightapp
-
 **Real Sight** is an intelligent Flutter app that lets users upload or capture an image, and then uses a machine learning model to detect whether the image is real or AI-generated.
 
 ---
